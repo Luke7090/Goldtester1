@@ -2,5 +2,5 @@ streamlit
 pandas
 numpy
 openpyxl
-yfinance
+yfinance==0.2.38
 matplotlib
